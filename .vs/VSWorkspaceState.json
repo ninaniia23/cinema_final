@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Cinema",
+    "\\Cinema\\bin",
+    "\\Cinema\\Views",
+    "\\Cinema\\Views\\Admin",
+    "\\Cinema\\Views\\Admin\\ShowtimeManagementVM"
+  ],
+  "SelectedNode": "\\Cinema\\Views\\Admin\\ShowtimeManagementVM\\ShowtimeManagement.xaml",
+  "PreviewInSolutionExplorer": false
+}

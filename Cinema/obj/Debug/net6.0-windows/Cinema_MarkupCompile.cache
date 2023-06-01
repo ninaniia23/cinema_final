@@ -1,0 +1,20 @@
+﻿Cinema
+
+
+winexe
+C#
+.cs
+C:\UEH - Năm 2\Công nghệ Phần mềm\Cinema\Cinema\obj\Debug\net6.0-windows\
+Cinema
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\UEH - Năm 2\Công nghệ Phần mềm\Cinema\Cinema\App.xaml
+10-203608889
+
+28-976189779
+227-699333949
+Views\Admin\MainAdminWindow.xaml;Views\Admin\MovieManagementVM\AddMovie.xaml;Views\Admin\MovieManagementVM\EditMovie.xaml;Views\Admin\MovieManagementVM\InforMovie.xaml;Views\Admin\MovieManagementVM\MovieManagement.xaml;Views\Admin\ShowtimeManagementVM\AddShowtimeWindow.xaml;Views\Admin\ShowtimeManagementVM\Infor_EditShowtimeWindow.xaml;Views\Admin\ShowtimeManagementVM\ShowtimeManagement.xaml;Views\LoginWindow\LoginPage.xaml;Views\LoginWindow\LoginWindowxaml.xaml;
+
+False
+

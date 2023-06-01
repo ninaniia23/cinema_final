@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Admin\Poster1.png" />
+    <None Remove="Views\Admin\Poster10.png" />
+    <None Remove="Views\Admin\Poster2.png" />
+    <None Remove="Views\Admin\Poster3.png" />
+    <None Remove="Views\Admin\Poster4.png" />
+    <None Remove="Views\Admin\Poster5.png" />
+    <None Remove="Views\Admin\Poster6.png" />
+    <None Remove="Views\Admin\Poster7.png" />
+    <None Remove="Views\Admin\Poster8.png" />
+    <None Remove="Views\Admin\Poster9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Kimtoo.SvgProvider" Version="1.0.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="4.11.0" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Font\" />
+    <Folder Include="Models\" />
+    <Folder Include="Resources\img\" />
+    <Folder Include="ViewModel\AdminVM\Import_ExportManagementVM\" />
+    <Folder Include="ViewModel\AdminVM\MovieManagementVM\" />
+    <Folder Include="Utils\" />
+    <Folder Include="ResourcesXAML\" />
+    <Folder Include="ViewModel\AdminVM\ShowtimeManagementVM\" />
+  </ItemGroup>
+
+</Project>

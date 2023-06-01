@@ -1,0 +1,20 @@
+﻿Cinema
+
+
+winexe
+C#
+.cs
+C:\UEH - Năm 2\Công nghệ Phần mềm\Cinema\Cinema\obj\Release\net6.0-windows\
+Cinema
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+C:\UEH - Năm 2\Công nghệ Phần mềm\Cinema\Cinema\App.xaml
+14558835268
+
+32-1665806156
+227-699333949
+Views\Admin\MainAdminWindow.xaml;Views\Admin\MovieManagementVM\AddMovie.xaml;Views\Admin\MovieManagementVM\EditMovie.xaml;Views\Admin\MovieManagementVM\InforMovie.xaml;Views\Admin\MovieManagementVM\MovieManagement.xaml;Views\Admin\ShowtimeManagementVM\AddShowtimeWindow.xaml;Views\Admin\ShowtimeManagementVM\Infor_EditShowtimeWindow.xaml;Views\Admin\ShowtimeManagementVM\ShowtimeManagement.xaml;Views\Admin\StaffManagementVM\MainStaffManagement.xaml;Views\LoginWindow\ChangePassPage.xaml;Views\LoginWindow\ForgotPassPage.xaml;Views\LoginWindow\LoginPage.xaml;Views\LoginWindow\LoginWindowxaml.xaml;Views\LoginWindow\RolePage.xaml;
+
+True
+
